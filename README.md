@@ -1,12 +1,12 @@
-# Product DB Rest API
+More details to follow.
 
-  This is a Restful API for storing Product Information. The project aims to provide a REST API for a Mongo Product DB for 
-  fetching, storing, deleting, updating product information. Methods can be extended for further needs. Code can be branched and 
-  adapted. 
-  
-  
-Node js, express package, ++ other packages shall be stored. 
-js code 
-Mongo DB 
+# Links
+[Workshop Slides](http://bit.ly/2G6ymLt)
 
+[Event Link](http://bit.ly/2Hwhazs)
+
+# Setup
+npm install
+
+npm run start
 
